@@ -57,11 +57,11 @@
 [2019年个人总结-方楠](./2019S2Summary/2019年个人总结-方楠.md)
 
 <img src="https://img.shields.io/badge/Category-年终总结-green"></img>
-<a href="https://github.com/shaonianruntu"><img src="https://img.shields.io/badge/Auther-李相-yellow"></img></a>
+<a href="https://github.com/Ausiden"><img src="https://img.shields.io/badge/Auther-李相-yellow"></img></a>
 <img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img>
 [2019年个人总结-李相](./2019S2Summary/2019年个人总结-李相.md)
 
 <img src="https://img.shields.io/badge/Category-年终总结-green"></img>
-<a href="https://github.com/shaonianruntu"><img src="https://img.shields.io/badge/Auther-阮杰-yellow"></img></a>
+<a href="https://github.com/nuansuperman"><img src="https://img.shields.io/badge/Auther-阮杰-yellow"></img></a>
 <img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img>
 [2019年个人总结-阮杰](./2019S2Summary/2019年个人总结-阮杰.md)
