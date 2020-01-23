@@ -49,9 +49,9 @@
 <img src="https://img.shields.io/badge/Category-年终总结-green"></img>
 <a href="https://github.com/xinzi2018"><img src="https://img.shields.io/badge/Auther-戴玲娜-yellow"></img></a>
 <img src="https://img.shields.io/badge/Grade-研二-f759ab"></img>
-[2019年终总结-戴玲娜](./2019S2Summary/2019年个人总结-戴玲娜.md)
+[2019年个人总结-戴玲娜](./2019S2Summary/2019年个人总结-戴玲娜.md)
 
 <img src="https://img.shields.io/badge/Category-年终总结-green"></img>
 <a href="https://github.com/shaonianruntu"><img src="https://img.shields.io/badge/Auther-方楠-yellow"></img></a>
 <img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img>
-[2019年终总结-方楠](./2019S2Summary/2019年个人总结-方楠.md)
+[2019年个人总结-方楠](./2019S2Summary/2019年个人总结-方楠.md)
